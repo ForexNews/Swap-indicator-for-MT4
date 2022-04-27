@@ -1,7 +1,7 @@
 # Swap-indicator-for-MT4
-![Swap Indicator MT4 Screen](https://forexnew.org/Download/Swap-Indicator.png)
 - Indicator showing Swap Rates for Metatrader 4
 - Coding for MetaTrader 4 platform and all brokers.
+![Swap Indicator MT4 Screen](https://forexnew.org/Download/Swap-Indicator.png)
 
 ## Inputs Parameter
 ![Swap Indicator MT4 Input](https://forexnew.org/Download/Swap-indicator-input.png)
@@ -11,7 +11,7 @@
 
 ## Formula
 - Swap Cost = (Swap rates x Pip Value x overnight) ÷ 10
-- 
+
 ### MQL4 Code
 
 ```
