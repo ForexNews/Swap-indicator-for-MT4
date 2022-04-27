@@ -6,10 +6,10 @@
 ![Swap Indicator MT4 Screen](https://forexnew.org/Download/Swap-Indicator.png)
 
 ## Inputs Parameter
-![Swap Indicator MT4 Input](https://forexnew.org/Download/Swap-indicator-input.png)
 - Font Size : 11
 - Space : 30
 - Font Color : DeepSkyBlue
+![Swap Indicator MT4 Input](https://forexnew.org/Download/Swap-indicator-input.png)
 
 ## Formula
 - Swap Cost = (Swap rates x Pip Value x overnight) ÷ 10
