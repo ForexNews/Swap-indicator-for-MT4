@@ -22,11 +22,11 @@
 #property version "1.0"
 #property description "Swap indicator for Metatrader 4"
 
-double swap_long,swap_short;
-int spread;
 extern int Font_Size = 11;
 extern int Space = 30;
 extern color Font_Color = DeepSkyBlue;
+int spread;
+double swap_long,swap_short;
 
 int init()
 {
