@@ -9,6 +9,7 @@
 - Font Size : 11
 - Space : 30
 - Font Color : DeepSkyBlue
+
 ![Swap Indicator MT4 Input](https://forexnew.org/Download/Swap-indicator-input.png)
 
 ## Formula
