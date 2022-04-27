@@ -1,5 +1,5 @@
 # Swap-indicator-for-MT4
-![Swap Indicator MT4 Screen](https://forexnew.org/wp-content/uploads/2021/09/Swap-Indicator.png)
+![Swap Indicator MT4 Screen](https://forexnew.org/Download/Swap-Indicator.png)
 - Indicator showing Swap Rates for Metatrader 4
 - Coding for MetaTrader 4 platform and all brokers.
 
