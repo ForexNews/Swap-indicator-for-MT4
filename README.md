@@ -7,7 +7,7 @@
 
 ## Formula
 - Swap Cost = (Swap rates x Pip Value x overnight) ÷ 10
-- 
+
 ## Inputs Parameter
 - Font Size : 11
 - Space : 30
