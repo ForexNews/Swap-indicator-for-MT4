@@ -3,7 +3,7 @@
 - Display Swap rate for a long and short positions on the screen.
 - Coding for MetaTrader 4 platform and all brokers.
 - See working example at [Spread indicator](https://forexnew.org/คลังความรู้/swap-free/#indicator)
-- 
+ 
 ![Swap Indicator MT4 Screen](https://forexnew.org/Download/Swap-Indicator.png)
 
 ## Formula
